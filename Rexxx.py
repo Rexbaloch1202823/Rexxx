@@ -270,7 +270,7 @@ def menu():
 			elif rex in ['6','06']:
 				cinc()
 			elif rex in ['7','07']:
-				os.system('xdg-open https://www.facebook.com/KINGXMRSW4TI');menu()
+				os.system('xdg-open https://www.facebook.com/profile.php?id=100091465907049&mibextid=ZbWKwL');menu()
 			elif rex in ['8','08']:
 				exit('')
 			else:
